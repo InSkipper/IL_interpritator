@@ -1,0 +1,7 @@
+read
+add 10
+gt 15
+retc
+ld 15
+print
+ret
